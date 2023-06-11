@@ -1,5 +1,5 @@
 import { Component } from "react";
-import "./DestinationStyle.css";
+import "./Trippy/DestinationStyle.css";
 
 class DestinationData extends Component {
   render() {
