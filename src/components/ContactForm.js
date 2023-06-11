@@ -1,4 +1,4 @@
-import "./ContactFormStyle.css";
+import "./Trippy/ContactFormStyle.css";
 
 function ContactForm() {
   return (
