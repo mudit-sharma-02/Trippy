@@ -1,9 +1,9 @@
-import "./styles.css";
+import "./Trippy/styles.css";
 import { Route, Routes } from "react-router-dom";
-import Home from "./routes/Home";
-import About from "./routes/About";
-import Service from "./routes/Service";
-import Contact from "./routes/Contact";
+import Home from "./Trippy/routes/Home";
+import About from "./Trippy/routes/About";
+import Service from "./Trippy/routes/Service";
+import Contact from "./Trippy/routes/Contact";
 
 export default function App() {
   return (
