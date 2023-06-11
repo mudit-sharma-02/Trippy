@@ -1,4 +1,4 @@
-import "./FooterStyle.css";
+import "./Trippy/FooterStyle.css";
 
 const Footer = () => {
   return (
