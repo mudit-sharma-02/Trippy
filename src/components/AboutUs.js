@@ -1,4 +1,4 @@
-import "./AboutUsStyle.css";
+import "./Trippy/AboutUsStyle.css";
 
 function AboutUs() {
   return (
