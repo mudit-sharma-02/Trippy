@@ -1,4 +1,4 @@
-import "./HeroStyle.css";
+import "./Trippy/HeroStyle.css";
 
 function Hero(props) {
   return (
