@@ -1,6 +1,6 @@
 import { Component } from "react";
-import "./NavBarStyle.css";
-import { MenuItems } from "./MenuItems";
+import "./Trippy/NavBarStyle.css";
+import { MenuItems } from "./Trippy/MenuItems";
 import { Link } from "react-router-dom";
 
 class NavBar extends Component {
