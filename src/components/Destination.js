@@ -1,9 +1,9 @@
-import Mountain1 from "../assets/1.jpg";
-import Mountain2 from "../assets/2.jpg";
-import Mountain3 from "../assets/5.jpg";
-import Mountain4 from "../assets/8.jpg";
-import DestinationData from "./DestinationData";
-import "./DestinationStyle.css";
+import Mountain1 from "../Trippy/assets/1.jpg";
+import Mountain2 from "../Trippy/assets/2.jpg";
+import Mountain3 from "../Trippy/assets/5.jpg";
+import Mountain4 from "../Trippy/assets/8.jpg";
+import DestinationData from "./Trippy/DestinationData";
+import "./Trippy/DestinationStyle.css";
 
 const Destination = () => {
   return (
