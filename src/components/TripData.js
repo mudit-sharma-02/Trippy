@@ -1,4 +1,4 @@
-import "./TripStyle.css";
+import "./Trippy/TripStyle.css";
 
 function TripData(props) {
   return (
